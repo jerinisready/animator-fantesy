@@ -1,0 +1,55 @@
+
+body, h1,h2,h3,h4,h5,h6, button.btn{
+    font-weight: bold;
+}
+button.btn-warning{
+    background-color: #ff9342;
+}
+body{
+    margin:0px;
+}
+.navbar-inverse{
+    background-color: #333;
+    padding:25px 0 25px 0;
+    margin:0px;
+    border-radius:0px;
+    font-size:15px;
+    font-style:strong;
+}
+.navbar-brand > img {
+    margin-top:-22px;
+}
+
+p {
+    font-size: small !important;
+    font-weight: normal;
+    color: #6b6a6a;
+}
+.footer{
+    background-color: #333;
+    color: #fff;
+    padding-bottom: 30px;
+    }
+.footer p{
+    color: #fff;
+    font-size:12px!important;
+    font-weight: lighter;
+ }
+ .pull-inner{
+    padding-left:10px!important;
+    padding-right:10px!important;
+ }
+.footer *{padding : 5px;}
+.footer  .posts h5{padding : 0;}
+.footer h5 ~ p{ padding:0px!important; margin:0px!important}
+.clear-bottom{
+    padding-bottom: 15px!important;
+    margin-bottom: 15px;
+}
+
+.footer ul li{
+     list-style: none;
+     padding:0px;
+     font-weight: normal;
+
+}
