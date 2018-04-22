@@ -57,8 +57,14 @@ ul li a {
      font-weight: normal;
 
 }
-
-
+button.btn-warning{
+margin-bottom:30px;
+}
+@media (max-width:992px){
+button.btn-warning{
+margin-bottom:10px;
+}
+}
 /* progress bar */
 
  /* Style the header: fixed position (always stay at the top) */
