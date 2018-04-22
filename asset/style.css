@@ -35,10 +35,14 @@ p {
     font-size:12px!important;
     font-weight: lighter;
  }
- .pull-inner{
+.pull-inner{
     padding-left:10px!important;
     padding-right:10px!important;
- }
+}
+ul li a {
+    cursor: pointer;
+    color: #fff;
+}
 .footer *{padding : 5px;}
 .footer  .posts h5{padding : 0;}
 .footer h5 ~ p{ padding:0px!important; margin:0px!important}
